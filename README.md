@@ -1,10 +1,10 @@
 # I'm a 17 year old front end developer
 
 ### Connect with me:
-[![website](./img/globe-dark.svg)](https://xdhhiii.github.io#gh-dark-mode-only) &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/xdhhiii#gh-dark-mode-only) &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/adhithyadev#gh-dark-mode-only) &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/x.dhi_#gh-dark-mode-only) &nbsp;&nbsp;
+[![website](./img/globe-dark.svg)](https://xdhhiii.github.io) &nbsp;&nbsp;
+[![website](./img/twitter-dark.svg)](https://twitter.com/xdhhiii) &nbsp;&nbsp;
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/adhithyadev) &nbsp;&nbsp;
+[![website](./img/instagram-dark.svg)](https://instagram.com/x.dhi_) &nbsp;&nbsp;
 
 ### Languages and Tools I use:
 
