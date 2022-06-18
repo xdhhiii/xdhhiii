@@ -6,7 +6,7 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/adhithyadev#gh-dark-mode-only) &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://instagram.com/x.dhi_#gh-dark-mode-only) &nbsp;&nbsp;
 
-### Languages and Tools:
+### Languages and Tools I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
